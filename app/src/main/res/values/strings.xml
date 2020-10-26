@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Recorded Weather</string>
+
+    <string name="rate_me">Rate Me</string>
+    <string name="share">Share App</string>
+    <string name="about">About us</string>
+    <string name="api_key">AIzaSyBLSKdLzA9GWn7Pmxzng-iOCE8cay1QDhs</string>
+    <string name="GPS">GPS</string>
+
+
+    <string name="app_desc">
+Weather figure is extremely useful with everyone. On the off chance that you know climate data, You can set up your arrangement cautiously,
+you will be effective at work and have better life. What the Weather conjecture today?
+        What the Weather tomorrow? What the nearby Weather?
+        Indeed,
+ even or the national climate and the world Weather? What multi day forecast?
+        The precise Weather application can give you a point by point climate
+ estimate any place you are! If its not too much trouble download our Weather figure application. You will see that Weather today is refreshed hourly.
+ Weather gauge application additionally has a meteorological forecast on Weather tomorrow, Weather for now, likewise multi day Weather figure Weather
+gauge application is a climate channel let you oversee climate of numerous areas. On home screen, clients see Weather of their areas. At that point
+clients can go to different screens for area the board.</string>
+
+
+    <string name="i_am_sure">I AM SURE</string>
+    <string name="re_try">RE-TRY</string>
+    <string name="permission_denied">Permission Denied</string>
+    <string name="toast_for_cancelling_the_permission">Sorry you can not proceed further process</string>
+    <string name="permission_access_fine_location">Without this permission the app is unable to get your Location. Are you sure you want to Deny this permission.?</string>
+
+
+
+</resources>
